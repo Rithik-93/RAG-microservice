@@ -1,0 +1,24 @@
+{
+  "name": "kafka-microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ai-sdk/google": "^1.0.4",
+    "@google/generative-ai": "^0.21.0",
+    "@langchain/community": "^0.3.16",
+    "@langchain/core": "^0.3.19",
+    "@prisma/client": "^6.1.0",
+    "ai": "^4.0.22",
+    "ignore": "^7.0.0",
+    "kafkajs": "^2.2.4",
+    "prisma": "^6.1.0",
+    "redis": "^4.7.0"
+  }
+}
